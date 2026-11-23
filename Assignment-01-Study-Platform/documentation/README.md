@@ -12,6 +12,4 @@ and database diagram for the Study Platform project.
 
 The database structure is visualized using DrawSQL.
 
-![Study Platform ER Diagram](sql-databases-assignments/Assignment-01-Study-Platform/documentation/er_diagram.png)
-
 DrawSQL Diagram: https://drawsql.app/draw?t=de36181f-ab41-4ae3-a444-98f808c2c65c&view=1
