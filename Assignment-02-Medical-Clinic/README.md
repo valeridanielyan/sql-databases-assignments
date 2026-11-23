@@ -17,6 +17,7 @@ and prescriptions.
 - DrawSQL
 
 ## Project Contents
-
-- database/ - SQL scripts
-- documentation/ - Technical documentation and ER Diagram
+- Technical Documentation
+- Database Schema
+- ER Diagram
+  
