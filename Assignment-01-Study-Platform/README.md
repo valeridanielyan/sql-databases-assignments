@@ -5,7 +5,6 @@ for an online educational platform.
 
 ## Technologies
 - MySQL
-- SQL
 - DrawSQL
 
 ## Project Contents
